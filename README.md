@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elijahzeal
+- 👋 Hi, I’m Elijahzeal
 - 👀 I’m interested in Minecraft & server development, software development and functionality.
 - 🌱 I’m currently learning GitHub, Java, JavaScript and SQL Databases.
 - 💞️ I’m looking to collaborate on server development, structure and functioning.
